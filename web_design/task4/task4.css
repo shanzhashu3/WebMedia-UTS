@@ -1,0 +1,44 @@
+/*basic layout*/
+body{
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+ 
+}
+
+/*main content styling*/
+main{
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wrapper{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;  
+ 
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+h1{
+    font-size: 25px;
+    font-family: Verdana, sans-serif;
+    color:#fcfcfc;
+    text-shadow: 3px 2px 3px #DE7E73;
+}
+
+h2{
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+    color:#fcfcfc;
+    text-shadow: 3px 2px 3px #DE7E73;
+}
+
+header{
+    border-bottom: 2px dotted #DE7E73;
+    margin: 20px;
+    
+}

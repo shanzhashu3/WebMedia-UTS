@@ -1,0 +1,145 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-Bold
+FamilyName:Cormorant Garamond
+StyleName:Bold
+MenuName:Cormorant Garamond
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Cormorant Garamond Bold
+WritingScript:Roman
+OutlineFileName:\CormorantGaramond-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:871756
+FileModTime:1465948800
+NameArray:0,Mac,4,Cormorant Garamond Bold
+NameArray:0,Win,1,Cormorant Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-Light
+FamilyName:Cormorant Garamond
+StyleName:Light
+MenuName:Cormorant Garamond Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Cormorant Garamond Light
+WritingScript:Roman
+OutlineFileName:\CormorantGaramond-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:885304
+FileModTime:1465948800
+NameArray:0,Mac,4,Cormorant Garamond Light
+NameArray:0,Win,1,Cormorant Garamond Light
+NameArray:0,Win,16,Cormorant Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-Medium
+FamilyName:Cormorant Garamond
+StyleName:Medium
+MenuName:Cormorant Garamond Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Cormorant Garamond Medium
+WritingScript:Roman
+OutlineFileName:\CormorantGaramond-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:878880
+FileModTime:1465948800
+NameArray:0,Mac,4,Cormorant Garamond Medium
+NameArray:0,Win,1,Cormorant Garamond Medium
+NameArray:0,Win,16,Cormorant Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CormorantGaramond-Regular
+FamilyName:Cormorant Garamond
+StyleName:Regular
+MenuName:Cormorant Garamond
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Cormorant Garamond Regular
+WritingScript:Roman
+OutlineFileName:\CormorantGaramond-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:884540
+FileModTime:1465948800
+NameArray:0,Mac,4,Cormorant Garamond Regular
+NameArray:0,Win,1,Cormorant Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LibreFranklin-Black
+FamilyName:Libre Franklin
+StyleName:Black
+MenuName:Libre Franklin Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:LibreFranklin-Black
+WritingScript:Roman
+OutlineFileName:\LibreFranklin-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:83276
+FileModTime:1465948800
+NameArray:0,Mac,4,Libre Franklin Black
+NameArray:0,Win,1,Libre Franklin Black
+NameArray:0,Win,16,Libre Franklin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LibreFranklin-Light
+FamilyName:Libre Franklin
+StyleName:Light
+MenuName:Libre Franklin Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:LibreFranklin-Light
+WritingScript:Roman
+OutlineFileName:\LibreFranklin-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:76968
+FileModTime:1465948800
+NameArray:0,Mac,4,Libre Franklin Light
+NameArray:0,Win,1,Libre Franklin Light
+NameArray:0,Win,16,Libre Franklin
+%EndFont
+

@@ -1,0 +1,147 @@
+/*Global reset*/
+*{
+  padding: 0;
+  margin:0;
+}
+
+html{
+    font-size:12px;
+    scroll-behavior: smooth;
+}
+body{
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+}
+
+/*basic layout*/
+#wrapper{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;  
+ 
+}
+/*something about the link*/
+a:link{
+  color:#CFAA9E;
+}
+
+a:hover{
+  color:#ED9282;
+}
+
+a:visited{
+  color:#ED9282;
+}
+
+/*fix up for older browsers to draw the new semantic elements*/
+
+header,
+main {
+    display: block;
+}
+
+
+/*fluid images*/
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#title {
+    padding: 40px;
+    background-image: url(images/header-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px;
+}
+
+header{
+    border-bottom: 2px dotted #DE7E73;
+    margin: 20px;
+    
+}
+/*adjust the font attribute*/
+h1{
+    font-size: 25px;
+    font-family: Verdana, sans-serif;
+    color:#fcfcfc;
+    text-shadow: 3px 2px 3px #DE7E73;
+}
+
+#row1-text{
+    font-family: Andale Mono, monospace;
+    font-size: 14px;
+    line-height: 1.5;
+    padding: 0.8rem 0;
+    color: #3c454d;
+    font-weight: 300;
+}
+
+#row2-text{
+    font-family: Andale Mono, monospace;
+    font-size: 14px;
+    line-height: 1.5;
+    padding-top:40px;
+    color: #3c454d;
+    font-weight: 300;
+}
+
+/*main content styling*/
+main{
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*side by side elements*/
+
+.box {
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+
+/*figure{
+    padding: 18px;
+    margin:27px;
+}
+*/
+
+/*images to shrink to fit*/
+figcaption{
+    font-size:12px;
+    color:#636a6d;
+    height: auto;
+    line-height: 1.5;
+}
+
+/*footer design*/
+footer{
+    height:18px;
+	font-size:17px;
+	text-align: center;
+	color:#FFFAFA;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-top:2px dotted #DE7E73;
+    padding:1.8rem;
+    clear: left;
+}
+
+/*for wider screens*/
+
+@media only screen and (min-width:720px) {
+    /*  3  boxes to sit side by side*/
+    .box {
+        float: left;
+    }
+    
+    .box p {
+        float:right;
+        width: 50%;
+    }
+}
+
+
+
